@@ -1,0 +1,4 @@
+const int OP::DESTRUCT = 0x64737472;
+const int OP::PAYMENT_REQUEST = 0x706c7567;
+const int OP::FALLBACK = 0x756e6b77;
+const int OP::SUBSCRIPTION = 0x73756273;
